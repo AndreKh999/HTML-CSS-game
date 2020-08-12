@@ -1,0 +1,174 @@
+.background {
+  background-color: black;
+  border: none;
+  color: black;
+  padding: 600px 700px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  position: fixed;
+  left: 0px;
+  top:  0px;
+  cursor: default;
+}
+
+
+
+
+.pong {
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 50px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 130px;
+  position: fixed;
+  left: 445px;
+  top:  50px;
+  cursor: default;
+}
+
+
+.classicMode {
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 15px 31px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 35px;
+  position: fixed;
+  left: 543px;
+  top: 400px;
+  cursor: pointer;
+}
+
+.Multiplayer {
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 15px 31px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 35px;
+  position: fixed;
+  left: 552px;
+  top: 450px;
+  cursor: pointer;
+}
+
+
+.Intructions {
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 15px 31px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 35px;
+  position: fixed;
+  left: 543px;
+  top: 500px;
+  cursor: pointer;
+}
+
+
+
+
+
+.DevelopedBy {
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 50px 50px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  position: fixed;
+  top: 555px;
+  left: 1050px;
+  cursor: default;
+}
+
+
+/*
+body {
+  background-color: black;
+  color: white;
+}
+
+ #all {
+   height: 100%;
+   font-size: 50px;
+ }
+
+ #pong {
+   margin: auto;
+   text-align: center;
+ }
+
+
+ #contentBox{
+  width: 100%;
+  height: 100%;
+  display: table;
+ }
+
+ #contentBox-inner{
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+ }
+
+ #pongBox {
+  width: 350%;
+  height: 50%;
+  display: table;
+ }
+
+ #pongBox-inner{
+  display: table-cell;
+  vertical-align: middle;
+  text-align: left; 
+ }
+
+ #buttons {
+   margin: auto;
+   text-align: middle;
+   cursor: pointer;
+   display: inline-block;
+ }
+
+ #dev {
+   font-size: 20px;
+   margin: auto;
+   margin-bottom: 0;
+   text-align: middle;
+   cursor: none;
+   display: table-cell;
+   vertical-align: middle;
+   cursor: default;
+ }
+
+
+
+ li {
+   margin-bottom: 15px;
+ }
+ ul {
+  list-style-type: none;
+ }
+
+ a {
+   text-decoration: none;
+   color: white;
+ }
+
+  */
